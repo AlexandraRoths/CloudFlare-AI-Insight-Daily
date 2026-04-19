@@ -5,7 +5,7 @@ compatibility_date = "2025-05-20" # Or your project's compatibility date
 workers_dev = true
 
 kv_namespaces = [
-  { binding = "DATA_KV", id = "kv数据库的ID" }
+  { binding = "DATA_KV", id = "79738fb7a7e949168d138c899e66d9a1" }
 ]
 
 [vars]
@@ -31,7 +31,7 @@ REDDIT_LIST_ID = "167576006499975168"
 REDDIT_FETCH_PAGES = "1" 
 PROJECTS_API_URL = "https://git-trending.justlikemaki.vip/topone/?since=daily"
 GITHUB_TOKEN = "github_pat_xxxxxx"
-GITHUB_REPO_OWNER = "justlovemaki"
+GITHUB_REPO_OWNER = "AlexandraRohs"
 GITHUB_REPO_NAME = "CloudFlare-AI-Insight-Daily"
 GITHUB_BRANCH = "main"
 LOGIN_USERNAME = "root"
