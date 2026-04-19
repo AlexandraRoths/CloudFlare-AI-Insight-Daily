@@ -12,7 +12,6 @@ kv_namespaces = [
 IMG_PROXY = ""  #图片代理链接，用于处理图片不显示
 OPEN_TRANSLATE = "true"
 USE_MODEL_PLATFORM = "GEMINI" #GEMINI, OPEN
-GEMINI_API_KEY = "xxxxxx-xxxxxx"
 GEMINI_API_URL = "https://api-proxy.me/gemini" #网上公共的代理api
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
 OPENAI_API_KEY = "sk-xxxxxx" # Replace with your actual OpenAI API Key
@@ -30,7 +29,6 @@ TWITTER_FETCH_PAGES = "1"
 REDDIT_LIST_ID = "167576006499975168" 
 REDDIT_FETCH_PAGES = "1" 
 PROJECTS_API_URL = "https://git-trending.justlikemaki.vip/topone/?since=daily"
-GITHUB_TOKEN = "github_pat_xxxxxx"
 GITHUB_REPO_OWNER = "AlexandraRohs"
 GITHUB_REPO_NAME = "CloudFlare-AI-Insight-Daily"
 GITHUB_BRANCH = "main"
